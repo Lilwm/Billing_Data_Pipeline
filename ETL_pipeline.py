@@ -8,6 +8,7 @@ import psycopg2
 from sqlalchemy import create_engine
 from datetime import datetime, timedelta
 from airflow import DAG
+from airflow.operators.python import PythonOperator
 
 #ETL scheduling with airflow DAG
 default_args = {
