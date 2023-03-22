@@ -1,0 +1,16 @@
+customer_id,date_of_payment,amount_paid,payment_method,payment_status,late_payment_fee,country_of_payment
+101,04/01/2021,100,credit card,paid,0,USA
+102,04/03/2021,200,bank transfer,paid,0,USA
+103,04/03/2021,75,credit card,paid,10,UK
+104,04/04/2021,50,e-wallet,overdue,0,UK
+105,04/05/2021,125,credit card,paid,0,USA
+106,04/06/2021,150,credit card,paid,0,UK
+107,04/07/2021,75,e-wallet,overdue,20,USA
+108,04/07/2021,100,bank transfer,overdue,30,USA
+109,04/08/2021,50,bank transfer,paid,0,UK
+110,04/08/2021,25,credit card,paid,0,USA
+111,04/09/2021,175,e-wallet,paid,0,UK
+112,04/10/2021,200,bank transfer,paid,0,USA
+113,04/10/2021,50,credit card,disputed,0,USA
+114,04/11/2021,100,credit card,paid,0,USA
+115,04/12/2021,75,e-wallet,overdue,15,UK

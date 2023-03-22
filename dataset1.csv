@@ -1,0 +1,16 @@
+customer_id,date_of_purchase,total_amount_billed,payment_status,payment_method,promo_code,country_of_purchase
+101,04/01/2021,100,paid,credit card,PROMO1,USA
+102,04/02/2021,200,paid,bank transfer,PROMO2,USA
+103,04/02/2021,50,overdue,credit card,,UK
+104,04/03/2021,75,disputed,e-wallet,PROMO3,UK
+105,04/04/2021,125,paid,credit card,PROMO4,USA
+106,04/05/2021,150,paid,credit card,,UK
+107,04/06/2021,75,overdue,e-wallet,PROMO5,USA
+108,04/06/2021,100,overdue,bank transfer,PROMO6,USA
+109,04/07/2021,50,paid,bank transfer,,UK
+110,04/07/2021,25,overdue,credit card,PROMO7,USA
+111,04/08/2021,175,paid,e-wallet,PROMO8,UK
+112,04/08/2021,200,paid,bank transfer,PROMO9,USA
+113,04/09/2021,50,disputed,credit card,PROMO10,USA
+114,04/10/2021,100,paid,credit card,PROMO11,USA
+115,04/10/2021,75,overdue,e-wallet,PROMO12,UK

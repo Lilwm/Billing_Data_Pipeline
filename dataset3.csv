@@ -1,0 +1,16 @@
+customer_id,date_of_refund,refund_amount,reason_for_refund,country_of_refund
+101,04/03/2021,100,product not as described,USA
+102,04/06/2021,200,defective product,USA
+103,04/07/2021,75,change of mind,UK
+104,04/08/2021,50,product not received,UK
+105,04/09/2021,25,product not as described,USA
+106,04/11/2021,125,defective product,UK
+107,04/12/2021,150,change of mind,USA
+108,04/13/2021,75,product not as described,USA
+109,04/13/2021,100,defective product,UK
+110,04/14/2021,50,product not received,USA
+111,04/15/2021,175,defective product,UK
+112,04/16/2021,200,change of mind,USA
+113,04/16/2021,50,product not as described,USA
+114,04/17/2021,100,defective product,USA
+115,04/18/2021,75,product not received,UK
